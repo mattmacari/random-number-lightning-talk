@@ -19,6 +19,7 @@ This talk is a quick overview of the basics of randomly generating numbers in Py
 ## Quickstart
 
 To run the Jupyter notebook run:
+
 `
 docker run -p 8888:8888 -v $(pwd):/home/jovyan jupyter/minimal-notebook
 `
